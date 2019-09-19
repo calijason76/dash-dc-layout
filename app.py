@@ -6,14 +6,14 @@ import pandas as pd
 
 ########### Define your variables ######
 
-tabtitle = 'the district'
-myheading1 = 'Step Back! The doors are about to close!'
-myheading2 = 'Back2Good'
-image1 = 'dc-flag.jpg'
-image2 = 'metro-map.png'
-textbody = "Metro's recent on time performance ratings are so good, it's getting harder to find a good reason to take a car!"
-sourceurl = 'https://www.wmata.com/about/back2good/index.cfm'
-githublink = 'https://github.com/austinlasseter/dash-dc-layout'
+tabtitle = 'laughterRx'
+myheading1 = 'Laughter is the BEST Medicine'
+myheading2 = 'A Brief Guide on Not Taking Yourself Seriously'
+image1 = 'body.jpg'
+image2 = 'shower.jpg'
+textbody = "Please Don't Touch My Arm with Your Arm: How I Died on Public Transportation"
+sourceurl = 'https://www.google.com/search?q=humor+images&oq=humor+images&aqs=chrome..69i57j0l5.2303j1j8&sourceid=chrome&ie=UTF-8'
+githublink = 'https://github.com/calijason76/dash-dc-layout'
 
 ########### Initiate the app
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
