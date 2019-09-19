@@ -23,11 +23,11 @@ app.title=tabtitle
 
 ########### Set up the layout
 app.layout = html.Div(children=[
-    html.H1(myheading1),
-    html.H2(myheading2),
+    html.H2(myheading1),
+    html.H3(myheading2),
     html.Div([
         html.Div([
-            html.Img(src=app.get_asset_url(image1), style={'width': '50%', 'height': 'auto'})
+            html.Img(src=app.get_asset_url(image1), style={'width': '80%', 'height': 'auto'})
         ],className='three columns'),
         html.Div([
             html.Img(src=app.get_asset_url(image2), style={'width': '80%', 'height': 'auto'}),
