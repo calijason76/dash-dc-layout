@@ -44,9 +44,9 @@ app.layout = html.Div(children=[
                 }),
         ],className='six columns'),
     ],className='twelve columns'),
-    html.A('Code on Github', href=githublink),
+    html.A("The 1's and 0s of it all", href=githublink),
     html.Br(),
-    html.A("Data Source", href=sourceurl),
+    html.A("Red Pill or Blue Pill", href=sourceurl),
     ]
 )
 
